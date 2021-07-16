@@ -1,0 +1,2 @@
+# CardSlider
+Beautiful card slider
